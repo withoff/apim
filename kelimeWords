@@ -1,0 +1,22 @@
+{[
+    "kelimeler": [
+        {
+            "kelime":"AĞAÇ",
+            "konumX": [0, 1, 2, 3],
+            "konumY": [0, 0, 0, 0]
+        },
+       {
+            "kelime":"ÇAĞ",
+            "konumX": [3,3,3],
+            "konumY": [0,1, 2]
+        },
+      {
+            "kelime":"DAĞ",
+            "konumX": [1,2,3],
+            "konumY": [2,2, 2]
+        },
+    ],
+    "hafler": ["A","Ç","Ğ","A"],
+    
+],
+}
